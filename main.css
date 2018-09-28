@@ -41,12 +41,13 @@ header {
 header h1 {
     padding: 3rem 1rem;
     color: hsl(200deg, 100%, 15%);
-    text-shadow: 100% 80%;
+    text-shadow: 2px 2px white;
 }
 
 header h2 {
     padding: 1rem;
     color: hsl(200deg, 100%, 30%);
+    text-shadow: 2px 2px white;
 }
 
 main {
